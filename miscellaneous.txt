@@ -1,3 +1,7 @@
 [Easing functions]
 (specify the rate of change of a parameter over time.)
 <https://easings.net/en>
+
+[Hexagonal Grids]
+(article on hex grids)
+<https://www.redblobgames.com/grids/hexagons/>
