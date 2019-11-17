@@ -5,3 +5,11 @@
 [Hexagonal Grids]
 (article on hex grids)
 <https://www.redblobgames.com/grids/hexagons/>
+
+[PIXEL PERFECTION IN GODOT]
+(article on pixel perfection settings)
+<https://alvarber.gitlab.io/pixel-perfection-in-godot.html>
+
+[Godot Engine and pixel art]
+(godot for pixel art)
+<https://medium.com/@tumeowilliam/godot-engine-and-pixel-art-a-better-love-story-than-twilight-4c8155ba71cd>
